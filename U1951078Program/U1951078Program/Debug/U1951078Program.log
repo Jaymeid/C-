@@ -1,0 +1,3 @@
+﻿  U1951078Program.cpp
+C:\Users\James\Desktop\U1951078_assignment02\U1951078Program\U1951078Program\U1951078Program.cpp(90,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  U1951078Program.vcxproj -> C:\Users\James\Desktop\U1951078_assignment02\U1951078Program\Debug\U1951078Program.exe
